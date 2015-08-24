@@ -1,2 +1,2 @@
 # TemperatureConversion
-My second JAVA project. Here I created a Temperature Conversion application. It works from C to F, and vice versa. 
+My second JAVA project. Here I created a Temperature Conversion application. It works as calculator with both choices: from C to F, and F to C. 
